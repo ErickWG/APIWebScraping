@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fMQRGiBSKeFhNAp+u9OYO3JZFfSyTKueMb5A6y9xnVM=",
+  "Source": "APIWebScraping",
+  "BasePath": "_content/APIWebScraping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
